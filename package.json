@@ -1,0 +1,31 @@
+{
+  "name": "strapi-plugin-serve-next",
+  "version": "1.0.0",
+  "description": "This plugin serves user interface from a next.js project.",
+  "strapi": {
+    "name": "serve-next",
+    "icon": "plug",
+    "description": "This plugin serves user interface from a next.js project."
+  },
+  "dependencies": {
+    "next": "x",
+    "koa-connect": "x"
+  },
+  "author": {
+    "name": "Bendegúz Cseresnyés",
+    "email": "cser.bende@gmail.com",
+    "url": "https://github.com/aPisC/strapi-plugin-serve-next"
+  },
+  "maintainers": [
+    {
+      "name": "Bendegúz Cseresnyés",
+      "email": "cser.bende@gmail.com",
+      "url": "https://github.com/aPisC/strapi-plugin-serve-next"
+    }
+  ],
+  "engines": {
+    "node": ">=10.16.0 <=14.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
